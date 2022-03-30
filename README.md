@@ -1,4 +1,4 @@
-- #👋 Hi, I’m dilane-goune
+- 👋 Hi, I’m dilane-goune
 - 👀 I’m interested in mobile, web development and backend development.
 - 🌱 I’m currently learning JavaScript, NodeJs,Express, React, React-Native and others.
 - 📫 You can get me at dkgoune@gmail.com 
