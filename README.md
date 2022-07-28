@@ -1,6 +1,6 @@
  ## 👋 Hi, I’m dilane-goune
 ### 👀 I’m interested in mobile, web development and backend development.
-### 🌱 I’m currently learning JavaScript, NodeJs,Express, React, React-Native and others.
+### 🌱 I’m have experienc in  JavaScript, NodeJs,Express, React, React-Native, Dart and Flutter.
 ### 📫 You can get me at dkgoune@gmail.com
 
 <!---
